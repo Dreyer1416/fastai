@@ -1,1 +1,1 @@
-fastai
+EGG data and code trying to detect when someone is thinking about closing its hand
